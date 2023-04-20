@@ -196,13 +196,6 @@ class _HomeMapState extends State<HomeMap> {
                       itemBuilder: (BuildContext context, int index) {
                         return Column(
                           children: [
-                            Container(
-                                height: 3,
-                                width: 75,
-                                decoration: BoxDecoration(
-                                  borderRadius: BorderRadius.circular(30),
-                                  color: Colors.black,
-                                )),
                             Padding(
                               padding: const EdgeInsets.fromLTRB(10, 35, 0, 10),
                               child: Row(
