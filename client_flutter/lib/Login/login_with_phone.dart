@@ -58,15 +58,15 @@ class _LoginWithPhoneState extends State<LoginWithPhone> {
                   controller: phoneController,
                   decoration: InputDecoration(
                       labelText: "Phone number",
-                      labelStyle: TextStyle(color: Colors.black),
+                      labelStyle: const TextStyle(color: Colors.black),
                       focusedBorder: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(20),
                           borderSide:
-                              BorderSide(color: Colors.black, width: 3)),
+                              const BorderSide(color: Colors.black, width: 3)),
                       enabledBorder: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(20),
                           borderSide:
-                              BorderSide(color: Colors.black, width: 2))),
+                              const BorderSide(color: Colors.black, width: 2))),
                 ),
               ),
               Visibility(

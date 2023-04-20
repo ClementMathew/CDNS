@@ -1,4 +1,4 @@
-import 'package:client_flutter/Disaster/Addimage.dart';
+import 'package:client_flutter/Disaster_clem/Addimage.dart';
 import 'package:flutter/material.dart';
 
 class AddDis extends StatefulWidget {
