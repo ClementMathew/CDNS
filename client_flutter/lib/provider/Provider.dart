@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 bool _isLoggedIn = false;
 
 class TagProvider_1 with ChangeNotifier {
+
   bool get getIsLoggedIn => _isLoggedIn;
 
   void changeDp()
