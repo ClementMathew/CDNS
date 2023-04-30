@@ -33,9 +33,12 @@ to run the application use
 flutter run lib/main.dart
 ```
 
-![image](https://user-images.githubusercontent.com/89939823/235370499-6b42d3d7-bb3e-4db1-8e40-08fd5edde3fe.png = 1920x1080)
-![image](https://user-images.githubusercontent.com/89939823/235370519-2f02096c-14d4-4c1f-bb2a-7e6e9b4d73eb.png = 1920x1080)
-![image](https://user-images.githubusercontent.com/89939823/235370544-1832c78a-6a01-4086-8dfb-d3237dd448a2.png)
-![image](https://user-images.githubusercontent.com/89939823/235370843-63a813d1-b5fe-4fd3-a5b0-ad6db6591455.png)
+<p>
+<img src="https://user-images.githubusercontent.com/89939823/235377211-c8bc7fd2-31a8-477e-9f0d-926e565aa6b4.png" width="500">
+<img src="https://user-images.githubusercontent.com/89939823/235377236-a4f06325-f15c-48c5-89f5-fbf58ff35a18.png" width="500">
+<img src="https://user-images.githubusercontent.com/89939823/235377234-6a68d034-da34-4371-be2f-e2de3de6c14b.png" width="500">
+<img src="https://user-images.githubusercontent.com/89939823/235377230-7bb05bb9-d512-468f-8876-594d38f63569.png" width="500">
+</p>
+
 
 
