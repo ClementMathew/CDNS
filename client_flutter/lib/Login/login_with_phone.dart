@@ -70,6 +70,7 @@ class _LoginWithPhoneState extends State<LoginWithPhone> {
                 ),
               ),
               Visibility(
+                visible: otpVisibility,
                 child: Padding(
                   padding: const EdgeInsets.fromLTRB(15, 40, 15, 0),
                   child: TextField(
@@ -88,7 +89,6 @@ class _LoginWithPhoneState extends State<LoginWithPhone> {
                                 BorderSide(color: Colors.black, width: 2))),
                   ),
                 ),
-                visible: otpVisibility,
               ),
               SizedBox(
                 height: 60,
